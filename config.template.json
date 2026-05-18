@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "PowerToys",
+      "type": "winget",
+      "id": "Microsoft.PowerToys"
+    }
+  ]
+}
